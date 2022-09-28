@@ -14,10 +14,10 @@ int main()
 
   max=arr[0];
   min=arr[0];
-  for(i=0;i<5;i++)0
+  for(i=0;i<5;i++)
   if(max<arr[i])
    max=arr[i];
-  else if(min>arr[i])0
+  else if(min>arr[i])
    min=arr[i];
 
   cout<<"\nMaximum element of Array: "<<max;
